@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update File Extension"
+    id="id-bfad8d2fbc6b42e3aaebdb415f8cd236"
+    documentation="Iterate through fileIds and update each file">
+  <properties
+      key="Stereotype"
+      value="API"/>
+  <properties
+      key="Protocole"
+      value="REST"/>
+</archimate:ApplicationInterface>

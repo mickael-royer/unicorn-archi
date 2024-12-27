@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Yemen"
+    id="id-2c4f2dc532564e9db0acd6282af10d62"
+    documentation="the Republic of Yemen">
+  <properties
+      key="Country Code"
+      value="YEM"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Sanaa"/>
+  <properties
+      key="Currency"
+      value="Yemeni Rial (YER)"/>
+</archimate:Location>

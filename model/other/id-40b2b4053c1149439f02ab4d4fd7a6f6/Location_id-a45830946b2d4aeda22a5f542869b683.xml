@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United States of America"
+    id="id-a45830946b2d4aeda22a5f542869b683"
+    documentation="the United States of America">
+  <properties
+      key="Country Code"
+      value="USA"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Washington"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

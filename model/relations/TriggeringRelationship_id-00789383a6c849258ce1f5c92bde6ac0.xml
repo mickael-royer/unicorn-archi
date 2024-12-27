@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Push MADR"
+    id="id-00789383a6c849258ce1f5c92bde6ac0">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-34c73242241f42bdaed975a99acf57ec.xml#id-34c73242241f42bdaed975a99acf57ec"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-24f99b41466d43eb8b0f54b097407765.xml#id-24f99b41466d43eb8b0f54b097407765"/>
+</archimate:TriggeringRelationship>

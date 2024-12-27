@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Philippines"
+    id="id-7391b1572f9f452e8d649df9faae7e17"
+    documentation="the Republic of the Philippines">
+  <properties
+      key="Country Code"
+      value="PHL"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Manila"/>
+  <properties
+      key="Currency"
+      value="Philippine Piso (PHP)"/>
+</archimate:Location>

@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jersey"
+    id="id-79d398d56c3643f6bbb0814b1a1709ed">
+  <properties
+      key="Country Code"
+      value="JEY"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Saint Helier"/>
+  <properties
+      key="Currency"
+      value="Pound Sterling (GBP)"/>
+</archimate:Location>

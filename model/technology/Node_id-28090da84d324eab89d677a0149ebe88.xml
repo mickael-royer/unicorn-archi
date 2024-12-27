@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container Instance"
+    id="id-28090da84d324eab89d677a0149ebe88">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+  <profiles
+      href="folder.xml#id-5faf5ad0387b48ea890416bd8ef17663"/>
+</archimate:Node>

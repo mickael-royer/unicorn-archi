@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pitcairn"
+    id="id-fbce7a085f50461fb371766d18d31bfe">
+  <properties
+      key="Country Code"
+      value="PCN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Adamstown"/>
+  <properties
+      key="Currency"
+      value="New Zealand Dollar (NZD)"/>
+</archimate:Location>

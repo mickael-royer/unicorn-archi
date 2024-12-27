@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unicorn"
+    id="id-8677cc5dbc094b55af69912696c1b552"
+    documentation="Handles the import, conversion, and publication of architecture artifacts.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+</archimate:ApplicationComponent>

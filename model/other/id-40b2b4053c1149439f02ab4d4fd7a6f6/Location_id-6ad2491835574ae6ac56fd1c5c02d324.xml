@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indonesia"
+    id="id-6ad2491835574ae6ac56fd1c5c02d324"
+    documentation="the Republic of Indonesia">
+  <properties
+      key="Country Code"
+      value="IDN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Jakarta"/>
+  <properties
+      key="Currency"
+      value="Rupiah (IDR)"/>
+</archimate:Location>

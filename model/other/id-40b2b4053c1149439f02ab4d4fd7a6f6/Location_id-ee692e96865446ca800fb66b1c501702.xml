@@ -1,0 +1,16 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouvet Island"
+    id="id-ee692e96865446ca800fb66b1c501702">
+  <properties
+      key="Country Code"
+      value="BVT"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"/>
+  <properties
+      key="Currency"
+      value="Norwegian Krone (NOK)"/>
+</archimate:Location>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auth0"
+    id="id-9939812ff3144fa9b26161ea5230b61e"
+    documentation="Manages secure user authentication and access control.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Okta"/>
+  <properties
+      key="URL"
+      value="https://auth0.com/"/>
+</archimate:ApplicationComponent>

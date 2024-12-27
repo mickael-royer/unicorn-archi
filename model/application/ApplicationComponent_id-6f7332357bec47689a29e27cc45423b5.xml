@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sonar Cloud"
+    id="id-6f7332357bec47689a29e27cc45423b5"
+    documentation="Software Quality Analysis">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Sonarsource"/>
+  <properties
+      key="URL"
+      value="https://sonarcloud.io/"/>
+</archimate:ApplicationComponent>

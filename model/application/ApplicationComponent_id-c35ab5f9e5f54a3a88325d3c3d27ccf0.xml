@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uvicorn"
+    id="id-c35ab5f9e5f54a3a88325d3c3d27ccf0"
+    documentation="ASGI web server implementation for Python">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+  <properties
+      key="URL"
+      value="https://www.uvicorn.org/"/>
+</archimate:ApplicationComponent>

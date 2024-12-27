@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kyrgyzstan"
+    id="id-7065d9dd68024471a7bcd43251629b0c"
+    documentation="the Kyrgyz Republic">
+  <properties
+      key="Country Code"
+      value="KGZ"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Bishkek"/>
+  <properties
+      key="Currency"
+      value="Som (KGS)"/>
+</archimate:Location>

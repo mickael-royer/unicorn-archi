@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export mail attachment to Drive"
+    id="id-dc1d552b456643c5911cb3595b6ba9ae">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f772361be26b48bf8fbe9864521287d8.xml#id-f772361be26b48bf8fbe9864521287d8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab5a0dc47c36458bbfd6a615b9db6d2c.xml#id-ab5a0dc47c36458bbfd6a615b9db6d2c"/>
+</archimate:TriggeringRelationship>

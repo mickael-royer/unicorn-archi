@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hugo"
+    id="id-88414099f14b4655abbea3c1dd07944b">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://gohugo.io/"/>
+</archimate:ApplicationFunction>

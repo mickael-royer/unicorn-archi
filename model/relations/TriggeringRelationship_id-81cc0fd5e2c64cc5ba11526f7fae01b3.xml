@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Google Drive via API"
+    id="id-81cc0fd5e2c64cc5ba11526f7fae01b3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab9ea6b441824d92bba8d5499177cb59.xml#id-ab9ea6b441824d92bba8d5499177cb59"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab5a0dc47c36458bbfd6a615b9db6d2c.xml#id-ab5a0dc47c36458bbfd6a615b9db6d2c"/>
+</archimate:TriggeringRelationship>

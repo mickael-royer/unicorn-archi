@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monaco"
+    id="id-c4014f235c2049839ec9dddebc27b081"
+    documentation="the Principality of Monaco">
+  <properties
+      key="Country Code"
+      value="MCO"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Monaco"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

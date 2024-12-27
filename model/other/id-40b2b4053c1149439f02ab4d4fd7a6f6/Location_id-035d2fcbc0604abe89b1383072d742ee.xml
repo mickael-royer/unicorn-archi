@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rwanda"
+    id="id-035d2fcbc0604abe89b1383072d742ee"
+    documentation="the Republic of Rwanda">
+  <properties
+      key="Country Code"
+      value="RWA"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Kigali"/>
+  <properties
+      key="Currency"
+      value="Rwanda Franc (RWF)"/>
+</archimate:Location>

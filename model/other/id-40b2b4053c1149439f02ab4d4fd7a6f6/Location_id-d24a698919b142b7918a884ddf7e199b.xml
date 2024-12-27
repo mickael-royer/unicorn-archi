@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lebanon"
+    id="id-d24a698919b142b7918a884ddf7e199b"
+    documentation="the Lebanese Republic">
+  <properties
+      key="Country Code"
+      value="LBN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Beirut"/>
+  <properties
+      key="Currency"
+      value="Lebanese Pound (LBP)"/>
+</archimate:Location>

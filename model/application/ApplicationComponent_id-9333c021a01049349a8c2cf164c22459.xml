@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Github"
+    id="id-9333c021a01049349a8c2cf164c22459"
+    documentation="Code and Artefact repository with version control.&#xA;">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="URL"
+      value="https://github.com/mickael-royer"/>
+  <properties
+      key="Registry"
+      value="https://github.com/mickael-royer?tab=packages"/>
+</archimate:ApplicationComponent>

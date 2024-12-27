@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization Code Flow with PKCE"
+    id="id-f41a481c486743f9b0440e23350f59bc"
+    documentation="https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-pkce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7fae6ed943914603a106a54556622377.xml#id-7fae6ed943914603a106a54556622377"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9939812ff3144fa9b26161ea5230b61e.xml#id-9939812ff3144fa9b26161ea5230b61e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dependabot"
+    id="id-26b14a455f2e4cd8988c463d2c6ef1df"
+    documentation="Dependency Analysis">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+</archimate:ApplicationComponent>

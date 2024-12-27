@@ -1,0 +1,11 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Static Web App"
+    id="id-6e9633d85fde46b192755481b003cd69"
+    documentation="Managed platform for building and deploying static web applications.">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+  <profiles
+      href="folder.xml#id-e2eb7c9e28bc44b9bbb9501b601f5f5c"/>
+</archimate:Node>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algeria"
+    id="id-ea512612ca4444868426738232cfe4a1"
+    documentation="the People's Democratic Republic of Algeria">
+  <properties
+      key="Country Code"
+      value="DZA"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Algiers"/>
+  <properties
+      key="Currency"
+      value="Algerian Dinar (DZD)"/>
+</archimate:Location>

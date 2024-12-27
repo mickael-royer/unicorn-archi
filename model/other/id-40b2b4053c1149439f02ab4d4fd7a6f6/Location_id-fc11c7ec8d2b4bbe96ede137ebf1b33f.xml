@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jordan"
+    id="id-fc11c7ec8d2b4bbe96ede137ebf1b33f"
+    documentation="the Hashemite Kingdom of Jordan">
+  <properties
+      key="Country Code"
+      value="JOR"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Amman"/>
+  <properties
+      key="Currency"
+      value="Jordanian Dinar (JOD)"/>
+</archimate:Location>

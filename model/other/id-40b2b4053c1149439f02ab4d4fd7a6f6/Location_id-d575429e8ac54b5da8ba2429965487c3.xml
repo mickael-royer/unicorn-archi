@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comoros"
+    id="id-d575429e8ac54b5da8ba2429965487c3"
+    documentation="the Union of the Comoros">
+  <properties
+      key="Country Code"
+      value="COM"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Moroni"/>
+  <properties
+      key="Currency"
+      value="Comorian Franc (KMF)"/>
+</archimate:Location>

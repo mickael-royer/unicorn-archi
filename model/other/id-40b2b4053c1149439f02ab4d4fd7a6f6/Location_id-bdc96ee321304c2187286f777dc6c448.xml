@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="British Virgin Islands"
+    id="id-bdc96ee321304c2187286f777dc6c448">
+  <properties
+      key="Country Code"
+      value="VGB"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Road Town"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

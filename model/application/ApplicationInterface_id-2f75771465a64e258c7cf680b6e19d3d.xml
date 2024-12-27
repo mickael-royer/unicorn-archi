@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List Files"
+    id="id-2f75771465a64e258c7cf680b6e19d3d">
+  <properties
+      key="Stereotype"
+      value="API"/>
+  <properties
+      key="Protocole"
+      value="REST"/>
+</archimate:ApplicationInterface>

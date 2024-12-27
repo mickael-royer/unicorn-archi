@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Germany"
+    id="id-61c9e94480cd4a4a9dc91434419d1b30"
+    documentation="the Federal Republic of Germany">
+  <properties
+      key="Country Code"
+      value="DEU"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Berlin"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

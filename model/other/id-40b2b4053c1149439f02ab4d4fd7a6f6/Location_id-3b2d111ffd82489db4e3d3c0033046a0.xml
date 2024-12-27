@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Viet Nam"
+    id="id-3b2d111ffd82489db4e3d3c0033046a0"
+    documentation="the Socialist Republic of Viet Nam">
+  <properties
+      key="Country Code"
+      value="VNM"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Hanoi"/>
+  <properties
+      key="Currency"
+      value="Dong (VND)"/>
+</archimate:Location>

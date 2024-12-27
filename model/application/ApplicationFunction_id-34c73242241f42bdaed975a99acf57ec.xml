@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MADR Tools"
+    id="id-34c73242241f42bdaed975a99acf57ec"
+    documentation="Markdown Architecture Decision Record Tools">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="Github"
+      value="https://github.com/butonic/adr-tools"/>
+</archimate:ApplicationFunction>

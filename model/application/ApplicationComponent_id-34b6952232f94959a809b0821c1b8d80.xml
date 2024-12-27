@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ionos"
+    id="id-34b6952232f94959a809b0821c1b8d80"
+    documentation="DNS domain and SSL Provider">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Ionos"/>
+  <properties
+      key="URL"
+      value="https://www.ionos.fr/"/>
+</archimate:ApplicationComponent>

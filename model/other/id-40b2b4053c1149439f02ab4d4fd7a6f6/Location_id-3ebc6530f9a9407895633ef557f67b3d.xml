@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Åland Islands"
+    id="id-3ebc6530f9a9407895633ef557f67b3d">
+  <properties
+      key="Country Code"
+      value="ALA"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Mariehamn"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

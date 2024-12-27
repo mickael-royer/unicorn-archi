@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bicep"
+    id="id-32eed422369e4bb9be07984b36b11e89"
+    documentation="Infrastructure as Code (IaC)&#xA;&#xA;https://github.com/Azure-Samples/container-apps-store-api-microservice/blob/main/deploy/main.bicep">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export Notebooks"
+    id="id-02da05736d4142d18abe785e6afde37a">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-c60659aa0eea46cd81b28355f0916e37.xml#id-c60659aa0eea46cd81b28355f0916e37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c4775bc6a2a24725aefce9b64ce6b69a.xml#id-c4775bc6a2a24725aefce9b64ce6b69a"/>
+</archimate:TriggeringRelationship>

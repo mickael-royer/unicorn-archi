@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managed Environment"
+    id="id-5692782fd78946dd93d7d67056f8fc5e"
+    documentation="Managed environments are primarily designed for hosting Azure Functions, Web Apps, and other Azure App Services in a more controlled, secure, and scalable way.">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+</archimate:Node>

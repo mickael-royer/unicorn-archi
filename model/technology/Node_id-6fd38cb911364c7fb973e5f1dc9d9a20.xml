@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cosmos DB"
+    id="id-6fd38cb911364c7fb973e5f1dc9d9a20">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+  <profiles
+      href="folder.xml#id-a45bcee9403148b9b17a1ac87aa1862e"/>
+</archimate:Node>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Drive"
+    id="id-ab5a0dc47c36458bbfd6a615b9db6d2c"
+    documentation="Stores files for further processing, with secure access through Google AuthN.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Google"/>
+  <properties
+      key="URL"
+      value="https://drive.google.com"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage Account"
+    id="id-0a3d808230954fdda9c799c165774a1c">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+  <profiles
+      href="folder.xml#id-e2eb7c9e28bc44b9bbb9501b601f5f5c"/>
+</archimate:Node>

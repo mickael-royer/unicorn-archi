@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ionic"
+    id="id-b2f2c0e89019494db40cb2c27ae64f8c">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:ApplicationFunction>

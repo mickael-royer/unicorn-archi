@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Download File"
+    id="id-42dd2bdae03849258089849206c940a6">
+  <properties
+      key="Stereotype"
+      value="API"/>
+  <properties
+      key="Protocole"
+      value="REST"/>
+</archimate:ApplicationInterface>

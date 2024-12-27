@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bermuda"
+    id="id-4edb20289eff46ddaa256004627069ed">
+  <properties
+      key="Country Code"
+      value="BMU"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Hamilton"/>
+  <properties
+      key="Currency"
+      value="Bermudian Dollar (BMD)"/>
+</archimate:Location>

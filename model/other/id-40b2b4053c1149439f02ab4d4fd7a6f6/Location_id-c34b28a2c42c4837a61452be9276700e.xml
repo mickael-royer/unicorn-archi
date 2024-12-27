@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sweden"
+    id="id-c34b28a2c42c4837a61452be9276700e"
+    documentation="the Kingdom of Sweden">
+  <properties
+      key="Country Code"
+      value="SWE"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Stockholm"/>
+  <properties
+      key="Currency"
+      value="Swedish Krona (SEK)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Swaziland"
+    id="id-1a1f5825d9364a4b8952acf158eb5ec1"
+    documentation="the Kingdom of Swaziland">
+  <properties
+      key="Country Code"
+      value="SWZ"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Mbabane"/>
+  <properties
+      key="Currency"
+      value="Lilangeni (SZL)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Denmark"
+    id="id-22676ec248294c7ba49de9f1439de18b"
+    documentation="the Kingdom of Denmark">
+  <properties
+      key="Country Code"
+      value="DNK"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Copenhagen"/>
+  <properties
+      key="Currency"
+      value="Danish Krone (DKK)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pakistan"
+    id="id-3e3ac03d3b044e4ca0234c4496ef2602"
+    documentation="the Islamic Republic of Pakistan">
+  <properties
+      key="Country Code"
+      value="PAK"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Islamabad"/>
+  <properties
+      key="Currency"
+      value="Pakistan Rupee (PKR)"/>
+</archimate:Location>

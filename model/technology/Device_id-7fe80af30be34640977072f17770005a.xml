@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile App"
+    id="id-7fe80af30be34640977072f17770005a">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+</archimate:Device>

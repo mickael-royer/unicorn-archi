@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Github Action"
+    id="id-949e37254a364d20a361e7972dda4d4b">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:ApplicationFunction>

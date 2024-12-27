@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process File"
+    id="id-b2722dd9a3354d719c856c3e3bfd86d5"
+    documentation="Retrieve the message sent by the publisher&#xA;Extract the data field, which contains the file information&#xA;Extract the file content (base64 encoded) and other info&#xA;If content is base64 encoded, decode it first">
+  <properties
+      key="Stereotype"
+      value="API"/>
+  <properties
+      key="Protocole"
+      value="REST"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Malta"
+    id="id-37da3945258d43b3ba1fe923289964d2"
+    documentation="the Republic of Malta">
+  <properties
+      key="Country Code"
+      value="MLT"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Valletta"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

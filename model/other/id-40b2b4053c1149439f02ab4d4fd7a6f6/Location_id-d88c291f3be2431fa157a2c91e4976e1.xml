@@ -1,0 +1,16 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Antarctica"
+    id="id-d88c291f3be2431fa157a2c91e4976e1">
+  <properties
+      key="Country Code"
+      value="ATA"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"/>
+  <properties
+      key="Currency"
+      value="No universal currency"/>
+</archimate:Location>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Push change to repository via API"
+    id="id-e5bcdff943d74325925dbd9e410c124c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3ba5666df0734eeea832631cb53c15a1.xml#id-3ba5666df0734eeea832631cb53c15a1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9333c021a01049349a8c2cf164c22459.xml#id-9333c021a01049349a8c2cf164c22459"/>
+</archimate:TriggeringRelationship>

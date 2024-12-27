@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Architecture Diagrams and Decision Records "
+    id="id-95cf9618d75a449c8ee58935c5e6ec65">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b30ed0274e254d92ad91f02640960d5f.xml#id-b30ed0274e254d92ad91f02640960d5f"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-c60659aa0eea46cd81b28355f0916e37.xml#id-c60659aa0eea46cd81b28355f0916e37"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suriname"
+    id="id-ed9c8fb15ee04f06b738e17b6d2faa2e"
+    documentation="the Republic of Suriname">
+  <properties
+      key="Country Code"
+      value="SUR"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Paramaribo"/>
+  <properties
+      key="Currency"
+      value="Surinam Dollar (SRD)"/>
+</archimate:Location>

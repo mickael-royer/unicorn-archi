@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saudi Arabia"
+    id="id-6ea7d39234fc4f30b4691c0a138b9143"
+    documentation="the Kingdom of Saudi Arabia">
+  <properties
+      key="Country Code"
+      value="SAU"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Riyadh"/>
+  <properties
+      key="Currency"
+      value="Saudi Riyal (SAR)"/>
+</archimate:Location>

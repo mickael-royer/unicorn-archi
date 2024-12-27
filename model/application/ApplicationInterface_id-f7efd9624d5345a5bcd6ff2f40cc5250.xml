@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auth Google"
+    id="id-f7efd9624d5345a5bcd6ff2f40cc5250">
+  <properties
+      key="Stereotype"
+      value="API"/>
+  <properties
+      key="Protocole"
+      value="REST"/>
+</archimate:ApplicationInterface>

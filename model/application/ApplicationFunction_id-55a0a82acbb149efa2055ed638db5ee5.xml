@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FastAPI"
+    id="id-55a0a82acbb149efa2055ed638db5ee5"
+    documentation="FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://fastapi.tiangolo.com/"/>
+</archimate:ApplicationFunction>

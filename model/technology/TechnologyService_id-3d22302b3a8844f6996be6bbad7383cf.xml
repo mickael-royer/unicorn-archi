@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registry"
+    id="id-3d22302b3a8844f6996be6bbad7383cf">
+  <properties
+      key="Provider"
+      value="Docker"/>
+  <properties
+      key="URL"
+      value="https://hub.docker.com/"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NodeJS"
+    id="id-46ed68b732db4637bf8d13a0a4e58c97"
+    documentation="A cross-platform JavaScript runtime environment.">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+  <properties
+      key="URL"
+      value="https://nodejs.org/"/>
+</archimate:ApplicationComponent>

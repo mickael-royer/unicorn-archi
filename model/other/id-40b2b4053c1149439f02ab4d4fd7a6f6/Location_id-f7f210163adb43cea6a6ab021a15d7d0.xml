@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saint Helena"
+    id="id-f7f210163adb43cea6a6ab021a15d7d0">
+  <properties
+      key="Country Code"
+      value="SHN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Jamestown"/>
+  <properties
+      key="Currency"
+      value="Saint Helena Pound (SHP)"/>
+</archimate:Location>

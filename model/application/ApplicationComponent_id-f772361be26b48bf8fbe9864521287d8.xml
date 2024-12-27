@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zappier"
+    id="id-f772361be26b48bf8fbe9864521287d8"
+    documentation="Automates the process of moving email attachments from Gmail to a Google Drive folder, eliminating manual steps in the export process.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Zapier"/>
+  <properties
+      key="URL"
+      value="https://zapier.com/"/>
+</archimate:ApplicationComponent>

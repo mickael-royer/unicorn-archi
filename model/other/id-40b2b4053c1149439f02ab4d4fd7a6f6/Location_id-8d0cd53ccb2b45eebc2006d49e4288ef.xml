@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Caledonia"
+    id="id-8d0cd53ccb2b45eebc2006d49e4288ef">
+  <properties
+      key="Country Code"
+      value="NCL"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Noumea"/>
+  <properties
+      key="Currency"
+      value="CFP Franc (XPF)"/>
+</archimate:Location>

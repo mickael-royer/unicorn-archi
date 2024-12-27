@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kuwait"
+    id="id-14c5e16460dd45b58715874e8bbf726b"
+    documentation="the State of Kuwait">
+  <properties
+      key="Country Code"
+      value="KWT"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Kuwait City"/>
+  <properties
+      key="Currency"
+      value="Kuwaiti Dinar (KWD)"/>
+</archimate:Location>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dapr"
+    id="id-3072a0137067441ea1a1d26641513ba2"
+    documentation="Dapr (Distributed Application Runtime) is an open-source, portable, event-driven runtime that helps developers build microservices applications. It abstracts away the complexities of common microservices infrastructure tasks like service discovery, state management, message brokers, and pub/sub systems. Dapr provides building blocks for microservices, enabling developers to focus on writing business logic instead of dealing with infrastructure challenges.">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://dapr.io"/>
+</archimate:ApplicationFunction>

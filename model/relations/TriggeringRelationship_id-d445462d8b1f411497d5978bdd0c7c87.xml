@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List Drive"
+    id="id-d445462d8b1f411497d5978bdd0c7c87">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7fae6ed943914603a106a54556622377.xml#id-7fae6ed943914603a106a54556622377"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab9ea6b441824d92bba8d5499177cb59.xml#id-ab9ea6b441824d92bba8d5499177cb59"/>
+</archimate:TriggeringRelationship>

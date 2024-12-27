@@ -1,0 +1,18 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kindle Scribe"
+    id="id-c60659aa0eea46cd81b28355f0916e37"
+    documentation="Facilitates export of documents and diagrams.">
+  <properties
+      key="Stereotype"
+      value="Device"/>
+  <properties
+      key="Provider"
+      value="Amazon"/>
+  <properties
+      key="URL"
+      value="https://www.amazon.fr/gp/help/customer/display.html?nodeId=T4sq0EZZFwu9vvH3Fx"/>
+  <properties
+      key="Email"
+      value="royerm_V64O4A@kindle.com"/>
+</archimate:Device>

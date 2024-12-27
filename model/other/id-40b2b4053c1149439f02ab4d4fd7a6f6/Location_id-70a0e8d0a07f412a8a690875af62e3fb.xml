@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Zealand"
+    id="id-70a0e8d0a07f412a8a690875af62e3fb"
+    documentation="New Zealand">
+  <properties
+      key="Country Code"
+      value="NZL"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Wellington"/>
+  <properties
+      key="Currency"
+      value="New Zealand Dollar (NZD)"/>
+</archimate:Location>

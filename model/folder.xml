@@ -1,0 +1,21 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unicorn"
+    id="id-1b46ed3ed39f4e5faecbf96f947811fd"
+    version="5.0.0">
+  <profiles
+      name="Container Instance"
+      id="id-5faf5ad0387b48ea890416bd8ef17663"
+      imagePath="images/_5aIjAH_lEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Cosmos DB"
+      id="id-a45bcee9403148b9b17a1ac87aa1862e"
+      imagePath="images/_zYqd4H_nEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Storage"
+      id="id-e2eb7c9e28bc44b9bbb9501b601f5f5c"
+      imagePath="images/__hf38H_nEe2cRdVGGBa1OQ.png"
+      conceptType="Node"/>
+</archimate:ArchimateModel>

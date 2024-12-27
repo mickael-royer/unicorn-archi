@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Côte d'Ivoire"
+    id="id-c279b203be5a48d39779043f03189c14"
+    documentation="the Republic of Côte d'Ivoire">
+  <properties
+      key="Country Code"
+      value="CIV"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Yamoussoukro"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BCEAO (XOF)"/>
+</archimate:Location>

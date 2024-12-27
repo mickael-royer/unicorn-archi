@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nicaragua"
+    id="id-ade7c317d03a4db593bc2bee18f8d0f3"
+    documentation="the Republic of Nicaragua">
+  <properties
+      key="Country Code"
+      value="NIC"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Managua"/>
+  <properties
+      key="Currency"
+      value="Cordoba Oro (NIO)"/>
+</archimate:Location>

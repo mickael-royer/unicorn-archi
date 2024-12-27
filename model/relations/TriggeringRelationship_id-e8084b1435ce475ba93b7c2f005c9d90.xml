@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consult Architecture Diagrams and Decision Records"
+    id="id-e8084b1435ce475ba93b7c2f005c9d90">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b30ed0274e254d92ad91f02640960d5f.xml#id-b30ed0274e254d92ad91f02640960d5f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8677cc5dbc094b55af69912696c1b552.xml#id-8677cc5dbc094b55af69912696c1b552"/>
+</archimate:TriggeringRelationship>

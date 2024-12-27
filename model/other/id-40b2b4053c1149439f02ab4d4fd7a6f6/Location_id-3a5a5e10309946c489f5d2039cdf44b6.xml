@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United States Virgin Islands"
+    id="id-3a5a5e10309946c489f5d2039cdf44b6">
+  <properties
+      key="Country Code"
+      value="VIR"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Charlotte Amalie"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

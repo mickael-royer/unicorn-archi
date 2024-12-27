@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Switzerland"
+    id="id-07b9e66486d84b368b6270ddd63b1b55"
+    documentation="the Swiss Confederation">
+  <properties
+      key="Country Code"
+      value="CHE"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Bern"/>
+  <properties
+      key="Currency"
+      value="Swiss Franc (CHF)"/>
+</archimate:Location>

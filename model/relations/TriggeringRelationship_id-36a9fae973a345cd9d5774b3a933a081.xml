@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Setup"
+    id="id-36a9fae973a345cd9d5774b3a933a081"
+    documentation="https://learn.microsoft.com/en-us/azure/static-web-apps/publish-bicep">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-32eed422369e4bb9be07984b36b11e89.xml#id-32eed422369e4bb9be07984b36b11e89"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6abef9cb9146478e9cbec42751239250.xml#id-6abef9cb9146478e9cbec42751239250"/>
+</archimate:TriggeringRelationship>

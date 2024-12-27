@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure DevOps"
+    id="id-38232575be5a4abd847d93635e455745"
+    documentation="cf. https://dev.azure.com/royerm/unicorn"/>

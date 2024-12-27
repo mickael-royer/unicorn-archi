@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Identity"
+    id="id-23cadf2394f844b09ad1203346db6148">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Google"/>
+  <properties
+      key="URL"
+      value="https://developers.google.com/identity"/>
+</archimate:ApplicationComponent>

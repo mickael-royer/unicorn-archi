@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Djibouti"
+    id="id-21c94666aaa54af8b9ce7f9723e203a6"
+    documentation="the Republic of Djibouti">
+  <properties
+      key="Country Code"
+      value="DJI"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Djibouti"/>
+  <properties
+      key="Currency"
+      value="Djibouti Franc (DJF)"/>
+</archimate:Location>

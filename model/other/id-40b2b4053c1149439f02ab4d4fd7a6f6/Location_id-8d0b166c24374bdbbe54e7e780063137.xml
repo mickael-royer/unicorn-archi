@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brunei Darussalam"
+    id="id-8d0b166c24374bdbbe54e7e780063137"
+    documentation="Brunei Darussalam">
+  <properties
+      key="Country Code"
+      value="BRN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Bandar Seri Begawan"/>
+  <properties
+      key="Currency"
+      value="Brunei Dollar (BND)"/>
+</archimate:Location>

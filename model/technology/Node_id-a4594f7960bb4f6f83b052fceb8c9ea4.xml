@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker"
+    id="id-a4594f7960bb4f6f83b052fceb8c9ea4"
+    documentation=" ">
+  <properties
+      key="Stereotype"
+      value="Deployment Node"/>
+</archimate:Node>

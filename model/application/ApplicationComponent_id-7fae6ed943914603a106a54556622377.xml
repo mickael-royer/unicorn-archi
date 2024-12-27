@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frontend"
+    id="id-7fae6ed943914603a106a54556622377"
+    documentation="Frontend based on Ionic and Auth0 authentication">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+  <properties
+      key="Github"
+      value="https://github.com/mickael-royer/unicorn-ionic"/>
+</archimate:ApplicationComponent>

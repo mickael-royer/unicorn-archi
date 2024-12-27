@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="India"
+    id="id-2bc2cad1662e4f8a93e6ca5db120df0c"
+    documentation="the Republic of India">
+  <properties
+      key="Country Code"
+      value="IND"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="New Delhi"/>
+  <properties
+      key="Currency"
+      value="Indian Rupee (INR)"/>
+</archimate:Location>

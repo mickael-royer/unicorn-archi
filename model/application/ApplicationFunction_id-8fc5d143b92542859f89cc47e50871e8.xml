@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drive Component"
+    id="id-8fc5d143b92542859f89cc47e50871e8">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:ApplicationFunction>

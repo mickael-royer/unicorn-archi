@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mali"
+    id="id-1204f8151fd544b88c9ee1ba6dd4c943"
+    documentation="the Republic of Mali">
+  <properties
+      key="Country Code"
+      value="MLI"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Bamako"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BCEAO (XOF)"/>
+</archimate:Location>

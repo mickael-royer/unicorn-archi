@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azerbaijan"
+    id="id-79ce746fde944e43a51ecc556d2a21b7"
+    documentation="the Republic of Azerbaijan">
+  <properties
+      key="Country Code"
+      value="AZE"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Baku"/>
+  <properties
+      key="Currency"
+      value="Azerbaijan Manat (AZN)"/>
+</archimate:Location>

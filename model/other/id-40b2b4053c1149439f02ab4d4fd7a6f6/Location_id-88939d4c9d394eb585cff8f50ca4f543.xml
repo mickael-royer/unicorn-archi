@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="South Sudan"
+    id="id-88939d4c9d394eb585cff8f50ca4f543"
+    documentation="the Republic of South Sudan">
+  <properties
+      key="Country Code"
+      value="SSD"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Juba"/>
+  <properties
+      key="Currency"
+      value="South Sudanese Pound (SSP)"/>
+</archimate:Location>

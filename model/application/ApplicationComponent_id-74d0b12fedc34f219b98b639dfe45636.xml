@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker Hub"
+    id="id-74d0b12fedc34f219b98b639dfe45636">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="Provider"
+      value="Docker"/>
+  <properties
+      key="URL"
+      value="https://hub.docker.com/"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podman"
+    id="id-43cf1757be4749cf891bb01bb053a93e"
+    documentation="Local Docker environment">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="URL"
+      value="https://podman.io"/>
+</archimate:ApplicationComponent>

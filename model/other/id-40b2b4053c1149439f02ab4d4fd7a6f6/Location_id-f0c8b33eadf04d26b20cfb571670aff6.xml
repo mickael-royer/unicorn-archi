@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guyana"
+    id="id-f0c8b33eadf04d26b20cfb571670aff6"
+    documentation="the Republic of Guyana">
+  <properties
+      key="Country Code"
+      value="GUY"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Georgetown"/>
+  <properties
+      key="Currency"
+      value="Guyana Dollar (GYD)"/>
+</archimate:Location>

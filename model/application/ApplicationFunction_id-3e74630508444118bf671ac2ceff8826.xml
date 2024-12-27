@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="React"
+    id="id-3e74630508444118bf671ac2ceff8826">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:ApplicationFunction>

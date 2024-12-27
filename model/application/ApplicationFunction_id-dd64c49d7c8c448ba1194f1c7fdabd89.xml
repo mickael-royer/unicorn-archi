@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Express"
+    id="id-dd64c49d7c8c448ba1194f1c7fdabd89"
+    documentation="Express is a fast, unopinionated, minimalist web framework for Node.js, providing a robust set of features for web and mobile applications.">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://expressjs.com"/>
+</archimate:ApplicationFunction>

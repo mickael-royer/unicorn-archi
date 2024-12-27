@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tajikistan"
+    id="id-4fdb7eeebdc9405d8dbf3dd9bc67e8b9"
+    documentation="the Republic of Tajikistan">
+  <properties
+      key="Country Code"
+      value="TJK"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Dushanbe"/>
+  <properties
+      key="Currency"
+      value="Somoni (TJS)"/>
+</archimate:Location>

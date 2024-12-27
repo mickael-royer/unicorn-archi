@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cayman Islands"
+    id="id-60f5968fa6f9416b983cc41ce58ed7db">
+  <properties
+      key="Country Code"
+      value="CYM"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="George Town"/>
+  <properties
+      key="Currency"
+      value="Cayman Islands Dollar (KYD)"/>
+</archimate:Location>

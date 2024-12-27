@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Process"
+    id="id-3ba5666df0734eeea832631cb53c15a1"
+    documentation="Microservice to process Markdown file">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import documents"
+    id="id-f4300ee2df4f43c8b0a12be1a50be59e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8677cc5dbc094b55af69912696c1b552.xml#id-8677cc5dbc094b55af69912696c1b552"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ab5a0dc47c36458bbfd6a615b9db6d2c.xml#id-ab5a0dc47c36458bbfd6a615b9db6d2c"/>
+</archimate:TriggeringRelationship>

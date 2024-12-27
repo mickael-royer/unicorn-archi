@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bangladesh"
+    id="id-0b62ace8fc6e42b9b842be1e6519a303"
+    documentation="the People's Republic of Bangladesh">
+  <properties
+      key="Country Code"
+      value="BGD"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Dhaka"/>
+  <properties
+      key="Currency"
+      value="Taka (BDT)"/>
+</archimate:Location>

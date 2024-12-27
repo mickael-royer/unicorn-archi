@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AuthN"
+    id="id-22cf06bdb5c94746b9f93e6547b38d48">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b30ed0274e254d92ad91f02640960d5f.xml#id-b30ed0274e254d92ad91f02640960d5f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9939812ff3144fa9b26161ea5230b61e.xml#id-9939812ff3144fa9b26161ea5230b61e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architects"
+    id="id-b30ed0274e254d92ad91f02640960d5f"
+    documentation="Use Kindle Scribe to document diagrams and ADRs.">
+  <properties
+      key="Stereotype"
+      value="Person"/>
+</archimate:BusinessActor>

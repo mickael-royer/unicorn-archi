@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backend"
+    id="id-ab9ea6b441824d92bba8d5499177cb59"
+    documentation="Backend for Frontend (BFF) to support Google Drive acces.">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+  <properties
+      key="Github"
+      value="https://github.com/mickael-royer/unicorn-express-server"/>
+</archimate:ApplicationComponent>

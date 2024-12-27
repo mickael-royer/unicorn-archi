@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cameroon"
+    id="id-300e9c60a96f4f50a6be1f6fc8e69da1"
+    documentation="the Republic of Cameroon">
+  <properties
+      key="Country Code"
+      value="CMR"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Yaounde"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

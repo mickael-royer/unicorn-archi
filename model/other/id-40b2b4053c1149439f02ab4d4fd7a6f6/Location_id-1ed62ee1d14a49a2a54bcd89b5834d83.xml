@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guinea"
+    id="id-1ed62ee1d14a49a2a54bcd89b5834d83"
+    documentation="the Republic of Guinea">
+  <properties
+      key="Country Code"
+      value="GIN"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Conakry"/>
+  <properties
+      key="Currency"
+      value="Guinean Franc (GNF)"/>
+</archimate:Location>

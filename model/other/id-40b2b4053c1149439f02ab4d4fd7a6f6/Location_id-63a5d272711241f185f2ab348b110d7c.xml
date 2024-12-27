@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belgium"
+    id="id-63a5d272711241f185f2ab348b110d7c"
+    documentation="the Kingdom of Belgium">
+  <properties
+      key="Country Code"
+      value="BEL"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Brussels"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

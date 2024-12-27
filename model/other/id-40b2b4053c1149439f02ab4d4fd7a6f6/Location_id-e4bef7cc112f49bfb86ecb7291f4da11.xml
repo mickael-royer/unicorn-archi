@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Libya"
+    id="id-e4bef7cc112f49bfb86ecb7291f4da11"
+    documentation="Libya">
+  <properties
+      key="Country Code"
+      value="LBY"/>
+  <properties
+      key="Latest Sync Date"
+      value="21/10/2024 15:34:25"/>
+  <properties
+      key="Capital"
+      value="Tripoli"/>
+  <properties
+      key="Currency"
+      value="Libyan Dinar (LYD)"/>
+</archimate:Location>

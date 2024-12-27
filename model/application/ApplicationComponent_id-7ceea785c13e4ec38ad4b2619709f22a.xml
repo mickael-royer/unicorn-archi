@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redis"
+    id="id-7ceea785c13e4ec38ad4b2619709f22a"
+    documentation="Redis is an in-memory data store used as a cache, vector database, document database, streaming engine, and message broker.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="URL"
+      value="https://redis.io"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Static Website"
+    id="id-24f99b41466d43eb8b0f54b097407765"
+    documentation="Website to support Project Documentation, Archimate and Architecture Decision Record repositories">
+  <properties
+      key="Stereotype"
+      value="Container"/>
+  <properties
+      key="Github"
+      value="https://github.com/mickael-royer/unicorn-hugo-website"/>
+</archimate:ApplicationComponent>
