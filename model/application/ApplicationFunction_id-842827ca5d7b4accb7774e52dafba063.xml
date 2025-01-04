@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gorilla Mux"
+    id="id-842827ca5d7b4accb7774e52dafba063"
+    documentation="Package gorilla/mux implements a request router and dispatcher for matching incoming requests to their respective handler.">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://github.com/gorilla/mux"/>
+</archimate:ApplicationFunction>

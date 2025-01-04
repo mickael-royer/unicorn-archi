@@ -1,12 +1,13 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="update"
-    id="id-75f4d94debb846248095bf0dbe0e13c4">
+    name="Deploy"
+    id="id-3861906234cd42b08c3ecfd2f482dfe3"
+    documentation="Deploy Hugo Website to Static Web App">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-9333c021a01049349a8c2cf164c22459.xml#id-9333c021a01049349a8c2cf164c22459"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-277cdefd37264f95a0d6736672f13335.xml#id-277cdefd37264f95a0d6736672f13335"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-24f99b41466d43eb8b0f54b097407765.xml#id-24f99b41466d43eb8b0f54b097407765"/>
 </archimate:TriggeringRelationship>

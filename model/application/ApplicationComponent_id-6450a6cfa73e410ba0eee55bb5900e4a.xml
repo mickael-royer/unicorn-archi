@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="File Process"
-    id="id-3ba5666df0734eeea832631cb53c15a1"
-    documentation="Microservice to process and enhance Markdown file">
+    name="File Publish"
+    id="id-6450a6cfa73e410ba0eee55bb5900e4a"
+    documentation="Microservice to publish Markdown file">
   <properties
       key="Stereotype"
       value="Container"/>

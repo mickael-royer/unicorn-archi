@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure Service Bus"
     id="id-2ef41a27444e4b728478c67050b7b9e2"
-    documentation="Azure Service Bus is a fully managed enterprise message broker service provided by Microsoft Azure. It supports various messaging patterns like queues, topics, and subscriptions, helping applications communicate asynchronously. "/>
+    documentation="Azure Service Bus is a fully managed enterprise message broker service provided by Microsoft Azure. It supports various messaging patterns like queues, topics, and subscriptions, helping applications communicate asynchronously. ">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+</archimate:TechnologyService>

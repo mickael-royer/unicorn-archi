@@ -1,13 +1,13 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Push"
-    id="id-e5bcdff943d74325925dbd9e410c124c"
-    documentation="Push change to repository via API">
+    name="Prompt"
+    id="id-770afbce9c494940af277727bb7b6ab2"
+    documentation="Generate ADR Synthesis">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-6450a6cfa73e410ba0eee55bb5900e4a.xml#id-6450a6cfa73e410ba0eee55bb5900e4a"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-9333c021a01049349a8c2cf164c22459.xml#id-9333c021a01049349a8c2cf164c22459"/>
+      href="ApplicationComponent_id-4e007959cd554c56809c72cd6120feb8.xml#id-4e007959cd554c56809c72cd6120feb8"/>
 </archimate:TriggeringRelationship>

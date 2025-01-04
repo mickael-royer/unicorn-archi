@@ -1,8 +1,9 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Access Google Drive via API"
-    id="id-81cc0fd5e2c64cc5ba11526f7fae01b3">
+    name="REST API"
+    id="id-81cc0fd5e2c64cc5ba11526f7fae01b3"
+    documentation="Access Google Drive via API">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-ab9ea6b441824d92bba8d5499177cb59.xml#id-ab9ea6b441824d92bba8d5499177cb59"/>

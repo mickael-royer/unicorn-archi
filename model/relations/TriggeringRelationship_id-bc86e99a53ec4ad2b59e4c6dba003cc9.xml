@@ -1,8 +1,9 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Get Access Token via API"
-    id="id-bc86e99a53ec4ad2b59e4c6dba003cc9">
+    name="REST API"
+    id="id-bc86e99a53ec4ad2b59e4c6dba003cc9"
+    documentation="Get Access Token via API">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-ab9ea6b441824d92bba8d5499177cb59.xml#id-ab9ea6b441824d92bba8d5499177cb59"/>

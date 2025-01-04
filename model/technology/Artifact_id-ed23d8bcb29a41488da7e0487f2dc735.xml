@@ -1,5 +1,9 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Queue] Files"
+    name="Files"
     id="id-ed23d8bcb29a41488da7e0487f2dc735"
-    documentation="Queues: Used for one-to-one communication, where a message is sent to a queue and a single consumer reads it."/>
+    documentation="Queues: Used for one-to-one communication, where a message is sent to a queue and a single consumer reads it.">
+  <properties
+      key="Stereotype"
+      value="Queue"/>
+</archimate:Artifact>

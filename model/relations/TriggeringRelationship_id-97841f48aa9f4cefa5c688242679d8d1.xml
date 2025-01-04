@@ -1,11 +1,12 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-7674450232594f6daad6079ce6392d41">
+    name="Webb Socket"
+    id="id-97841f48aa9f4cefa5c688242679d8d1">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-3ba5666df0734eeea832631cb53c15a1.xml#id-3ba5666df0734eeea832631cb53c15a1"/>
+      href="ApplicationComponent_id-7c717da220df4d8091d78e0d0a2e5318.xml#id-7c717da220df4d8091d78e0d0a2e5318"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-6450a6cfa73e410ba0eee55bb5900e4a.xml#id-6450a6cfa73e410ba0eee55bb5900e4a"/>
+      href="ApplicationComponent_id-7fae6ed943914603a106a54556622377.xml#id-7fae6ed943914603a106a54556622377"/>
 </archimate:TriggeringRelationship>

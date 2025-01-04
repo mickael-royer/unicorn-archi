@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pusher"
+    id="id-7c717da220df4d8091d78e0d0a2e5318"
+    documentation="Cross-platform API for native programmatic push notifications.">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="URL"
+      value="https://dashboard.pusher.com/apps/1920401"/>
+</archimate:ApplicationComponent>

@@ -1,7 +1,9 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-d67f5694965e45f8ba02617c41a1c4a0">
+    name="State store"
+    id="id-d67f5694965e45f8ba02617c41a1c4a0"
+    documentation="https://docs.dapr.io/developing-applications/building-blocks/state-management/howto-get-save-state/">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-b2722dd9a3354d719c856c3e3bfd86d5.xml#id-b2722dd9a3354d719c856c3e3bfd86d5"/>

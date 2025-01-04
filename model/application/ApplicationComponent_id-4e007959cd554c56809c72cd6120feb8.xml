@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Gemini"
+    id="id-4e007959cd554c56809c72cd6120feb8"
+    documentation="LLM&#xA;">
+  <properties
+      key="Stereotype"
+      value="System Software"/>
+  <properties
+      key="URL"
+      value="https://aistudio.google.com/"/>
+</archimate:ApplicationComponent>
