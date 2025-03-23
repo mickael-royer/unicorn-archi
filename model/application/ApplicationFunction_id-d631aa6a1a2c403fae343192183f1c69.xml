@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LangChain"
+    id="id-d631aa6a1a2c403fae343192183f1c69">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://fastapi.tiangolo.com/"/>
+</archimate:ApplicationFunction>

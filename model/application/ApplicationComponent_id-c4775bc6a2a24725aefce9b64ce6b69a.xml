@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Google Mail "
+    name="Google Mail"
     id="id-c4775bc6a2a24725aefce9b64ce6b69a"
     documentation="Sends exported files as email attachments to a designated Gmail account.">
   <properties

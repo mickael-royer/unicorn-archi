@@ -6,7 +6,7 @@
     documentation="Generate ADR Synthesis">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-6450a6cfa73e410ba0eee55bb5900e4a.xml#id-6450a6cfa73e410ba0eee55bb5900e4a"/>
+      href="ApplicationComponent_id-3ba5666df0734eeea832631cb53c15a1.xml#id-3ba5666df0734eeea832631cb53c15a1"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-4e007959cd554c56809c72cd6120feb8.xml#id-4e007959cd554c56809c72cd6120feb8"/>

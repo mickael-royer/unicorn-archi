@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Google Identity"
-    id="id-23cadf2394f844b09ad1203346db6148">
+    id="id-23cadf2394f844b09ad1203346db6148"
+    documentation="Identity and Access Management for Authentication (AuthN) and Authorization (AuthZ).">
   <properties
       key="Stereotype"
       value="System Software"/>

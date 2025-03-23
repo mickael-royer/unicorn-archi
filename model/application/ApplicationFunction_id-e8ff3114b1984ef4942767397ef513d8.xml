@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chainlit"
+    id="id-e8ff3114b1984ef4942767397ef513d8">
+  <properties
+      key="Stereotype"
+      value="Component"/>
+  <properties
+      key="URL"
+      value="https://fastapi.tiangolo.com/"/>
+</archimate:ApplicationFunction>

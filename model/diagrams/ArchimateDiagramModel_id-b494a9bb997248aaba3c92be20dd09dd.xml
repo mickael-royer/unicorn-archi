@@ -303,9 +303,9 @@
         value="1"/>
     <bounds
         x="708"
-        y="324"
+        y="300"
         width="204"
-        height="73"/>
+        height="121"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-23cadf2394f844b09ad1203346db6148.xml#id-23cadf2394f844b09ad1203346db6148"/>

@@ -276,9 +276,9 @@
         value="1"/>
     <bounds
         x="600"
-        y="12"
+        y="-12"
         width="145"
-        height="73"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-23cadf2394f844b09ad1203346db6148.xml#id-23cadf2394f844b09ad1203346db6148"/>
